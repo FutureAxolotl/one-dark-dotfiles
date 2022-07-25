@@ -1,0 +1,48 @@
+# Font configuration
+font:
+  normal:
+    family: JetBrainsMono Nerd Font
+    style: Regular
+  bold:
+    family: JetBrainsMono Nerd Font
+    style: Bold
+  italic:
+    family: JetBrainsMono Nerd Font
+    style: Italic
+  bold_italic:
+    family: JetBrainsMono Nerd Font
+    style: Bold Italic
+  size: 11.0
+  offset:
+    x: 0
+    y: 1
+  draw_bold_text_with_bright_colors: true
+colors:
+    primary:
+      background: '#282c34'
+      foreground: '#bbc2cf'
+    cursor:
+      text: CellBackground
+      cursor: '#528bff'
+    selection:
+      text: CellForeground
+      background: '#3e4451'
+    normal:
+      black:   '#1c1f24'
+      red:     '#ff6c6b'
+      green:   '#98be65'
+      yellow:  '#e5c07b'
+      blue:    '#51afef'
+      magenta: '#c678dd'
+      cyan:    '#5699af'
+      white:   '#202328'
+    bright:
+      black:   '#5b6268'
+      red:     '#da8548'
+      green:   '#4db5bd'
+      yellow:  '#ecbe7b'
+      blue:    '#3071db'
+      magenta: '#a9a1e1'
+      cyan:    '#46d9ff'
+      white:   '#dfdfdf'
+
