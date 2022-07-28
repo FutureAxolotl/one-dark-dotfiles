@@ -19,7 +19,7 @@ You will at least need to have:
 * Emacs with [Doom Emacs](https://github.com/doomemacs/doomemacs) installed
 * Treemacs Emacs package installed for a sidebar that shows files
 * Tremacs-All-The-Icons Emacs package installed for the icons in Treemacs
-* Vterm Emacs package installed for an Emacs terminal emulator (optional)
+* Vterm Emacs package installed for an Emacs terminal emulator
 * Polybar
 * Macchina
 * Feh
