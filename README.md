@@ -1,5 +1,4 @@
 # one-dark-dotfiles
-A collection of dotfiles made with the One Dark colorscheme
 Thanks to [CordlessCoder](https://github.com/CordlessCoder) for the [polywins Polybar module](https://github.com/CordlessCoder/polywins.py)!
 
 NOTE: Dotfiles may consistently update.
