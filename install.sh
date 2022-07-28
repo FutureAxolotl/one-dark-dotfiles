@@ -2,6 +2,7 @@
 cp .doom.d/config.el ~/.doom.d/
 cp BetterDiscord/themes/OneDark.theme.css ~/.config/BetterDiscord/themes/
 cp picom.conf ~/.config
+cp -r .doom.d/scripts ~/.doom.d
 cp -r wallpapers/ ~/Pictures/
 cp -r sxhkd ~/.config
 cp -r rofi ~/.config
