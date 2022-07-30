@@ -30,6 +30,6 @@ NOTE: you may have to edit the `sxhkdrc` file based off of what you use for a we
 # Installation
 
 ``` sh
-git clone https://github.com/FutureAxolotl/one-dark-dotfiles.git && cd one-dark-dotfiles && chmod +x install.sh && ./install.sh
+git clone https://github.com/FutureAxolotl/one-dark-dotfiles.git && cd one-dark-dotfiles && ./install.sh
 ```
 You will have to change DVI-0 in line 300 of the Polybar config to whatever the monitor input is (run xrandr if you don't know what input it is). For information about multi-monitor support, refer to the [Polywins.py GitHub page](https://github.com/CordlessCoder/polywins.py).
