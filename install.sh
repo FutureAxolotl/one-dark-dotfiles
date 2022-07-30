@@ -7,7 +7,7 @@ cp -r wallpapers/ ~/Pictures/
 cp -r sxhkd ~/.config
 cp -r rofi ~/.config
 cp -r macchina ~/.config
-cp -r fish ~/.config
+cp fish/config.fish ~/.config/fish
 cp -r dunst ~/.config
 cp -r polybar ~/.config
 cp -r bspwm ~/.config
