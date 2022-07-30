@@ -12,3 +12,4 @@ cp -r dunst ~/.config
 cp -r polybar ~/.config
 cp -r bspwm ~/.config
 cp -r alacritty ~/.config
+echo "Files copied. I hope you enjoy!:D"
